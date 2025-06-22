@@ -32,7 +32,7 @@ Answer in a friendly, non-judgmental tone and offer actionable steps for the par
       { role: "user", content: question }
     ],
     temperature: 0.7,
-    max_tokens: 800
+    max_tokens: 500
   });
 
   const usage = chatResponse.usage;
