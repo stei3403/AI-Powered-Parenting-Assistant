@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ai-powered-parenting-assistant",
+    "main": "ai-powered-parenting-assistant"
+  },
+  "targets": {},
+  "etags": {}
+}
